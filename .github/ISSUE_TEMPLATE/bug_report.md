@@ -16,5 +16,5 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. See error
 
-**Document**
+****Document JSON****
 If relevant, please attach a copy of a Kodemo JSON document where this bug can be reproduced.
