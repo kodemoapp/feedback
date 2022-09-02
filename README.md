@@ -5,4 +5,5 @@ If you've been testing the alpha and have any feedback report, please submit an 
 
 --- 
 ### [Suggest an idea](https://github.com/KodemoApp/feedback/discussions/new?category=ideas) 💡
-### [Report a bug](https://github.com/KodemoApp/feedback/issues/new) 🐞
+### [Start a discussion](https://github.com/KodemoApp/feedback/discussions/new?category=general) 💬
+### [Report a bug](https://github.com/kodemoapp/feedback/issues/new?assignees=&labels=&template=bug_report.md&title=) 🐞
